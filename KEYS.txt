@@ -1,0 +1,16 @@
+# ============================================
+# Saved API Keys & Tokens
+# ============================================
+
+# Telegram Bot
+TELEGRAM_BOT_TOKEN=8623182796:AAELBh88ac3G4uyCdsIl58mX9bSCeQgX4Vs
+
+# AI: LLM (Agent Platform via LiteLLM)
+LLM_API_KEY=sk-Dw_1fCAyBdSTKozgJJZHUg
+LLM_BASE_URL=https://litellm.tokengate.ru/v1
+
+# GitHub Pages URL
+FRONTEND_URL=https://merkul1996.github.io/velvet-ai/
+
+# GitHub Repo
+GITHUB_REPO=https://github.com/merkul1996/velvet-ai
